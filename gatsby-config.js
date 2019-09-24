@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `My blog`,
-    position: `Backend Developer`,
-    description: `A blog about backend development and other cool stuff.`,
+    title: `Christian Martins`,
+    position: `Analista Programador`,
+    description: `CEO da CHR3 Tecnologia, utilizo este blog para arquivar matérias e curiosidades sobre desenvolvimento web.`,
     author: `@myblog`,
   },
   plugins: [
