@@ -8,6 +8,7 @@ module.exports = {
     position: `Web Developer`,
     description: `Um blog sobre artigos e curiosidades no mundo do desenvolvimento web.`,
     author: `@myblog`,
+    siteUrl: `https://chr3tecnologia.com.br`
   },
   plugins: [
     `gatsby-plugin-transition-link`,
