@@ -6,7 +6,8 @@ module.exports = {
   siteMetadata: {
     title: `Christian Martins`,
     position: `Web Developer`,
-    description: `Um blog sobre artigos e curiosidades no mundo do desenvolvimento web.`,
+    description: `Site em constante desenvolvimento, usado para meu aprendizado. 
+      No momento usando Gatsby + React + GraphQL + Netlify`,
     author: `@myblog`,
     siteUrl: `https://https://chrmartins.netlify.com/`
   },
