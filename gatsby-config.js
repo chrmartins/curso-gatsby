@@ -9,7 +9,7 @@ module.exports = {
     description: `Site em constante desenvolvimento, usado para meu aprendizado. 
       No momento usando Gatsby + React + GraphQL + Netlify`,
     author: `@myblog`,
-    siteUrl: `https://https://chrmartins.netlify.com/`
+    siteUrl: `https://https://chrmartins.com/`
   },
   plugins: [
     `gatsby-plugin-transition-link`,
